@@ -1,4 +1,6 @@
-hook it up with a &#x2B50;!
+## SMB Footprinting <br>
+<mark>hook it up with a &#x2B50; if this helps!</mark> <br>
+🐦: @<a href="https://x.com/st8less">**st8less**</a>
 <br>
 
 Target IP: 10.129.202.5
