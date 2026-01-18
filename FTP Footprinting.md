@@ -1,4 +1,4 @@
-## SMB Footprinting <br>
+## FTP Footprinting <br>
 <mark>hook it up with a &#x2B50; if this helps!</mark> <br>
 🐦: @<a href="https://x.com/st8less">**st8less**</a>
 <br>
@@ -13,7 +13,7 @@ Which version of the FTP server is running on the target system? Submit the enti
 Quick netcat:
 
 	nc -nv 10.129.202.5 21
-&#x1F6A9; <mark>220 InFreight FTP --edit--</mark>
+&#x1F6A9; **220 InFreight FTP --edit--**
 
 excluded the 220 ftp message and it worked.
 
@@ -29,4 +29,4 @@ Easy wget anon login:
 
 (this downloaded entire ftp directory to local pwd)
 
-&#x1F6A9;<mark>HTB{b7skjr4c76zhsds7--edit--</mark>
+&#x1F6A9;**HTB{b7skjr4c76zhsds7--edit--**
