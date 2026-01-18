@@ -8,7 +8,7 @@ Target IP:
 10.129.200.249
 
 ---
-
+ 
 ### TTP Question 1:
 
  Interact with the target DNS using its IP address and enumerate the FQDN of it for the "inlanefreight.htb"s domain.
